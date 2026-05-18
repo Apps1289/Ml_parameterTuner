@@ -211,9 +211,6 @@ export default function HomePage({ onGetStarted }) {
             >
               Get Started <ArrowRight size={20} />
             </button>
-            <button className="px-8 py-3 border border-slate-700 text-slate-300 rounded-lg font-semibold hover:bg-slate-800/50 transition duration-200">
-              Watch Demo
-            </button>
           </div>
 
           {/* Hero Image/Illustration */}
